@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "浏 览 历 史",
+  "usingComponents": {
+    "collect-item": "/components/collect-item",
+    "bottom": "/components/bottom",
+    "nodata": "/components/nodata"
+  }
+}

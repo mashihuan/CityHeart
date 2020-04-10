@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "home-banner": "/components/banner",
+    "home-classify": "/pages/user/home/index/children/home-classify",
+    "home-recommend": "/pages/user/home/index/children/home-recommend"
+  }
+}

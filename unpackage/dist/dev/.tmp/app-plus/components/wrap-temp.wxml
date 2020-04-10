@@ -1,0 +1,1 @@
+<view class="container data-v-1c16d5bd" style="{{'height:'+(ScrollHeigfht)+';'}}"><view class="wrap  border-radius bg-white shadow data-v-1c16d5bd"><slot></slot></view></view>

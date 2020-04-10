@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "个 人 中 心",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "mine-temp": "/components/mine-temp"
+  }
+}

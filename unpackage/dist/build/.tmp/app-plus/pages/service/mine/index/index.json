@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "我 的",
+  "usingComponents": {
+    "mine-temp": "/components/mine-temp"
+  }
+}

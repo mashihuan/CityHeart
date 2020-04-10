@@ -1,0 +1,2 @@
+setCssToHead(["@charset \x22UTF-8\x22;\n.",[1],"my-favorite.",[1],"data-v-6409480a .",[1],"bottom-bottom { border-bottom: none; }\n",],undefined,{path:"./pages/user/mine/subPages/my-collect/my-collect.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/user/mine/subPages/my-collect/my-collect.wxml') } }));

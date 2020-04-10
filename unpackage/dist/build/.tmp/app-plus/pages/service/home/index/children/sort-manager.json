@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "nodata": "/components/nodata"
+  },
+  "component": true
+}

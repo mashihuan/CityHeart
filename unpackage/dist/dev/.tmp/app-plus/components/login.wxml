@@ -1,0 +1,1 @@
+<view class="content data-v-30450faf" style="{{'background:'+(background)+';'+('background-size:'+('100% 100%')+';')}}"><view class="wrap d-flex flex-direction-column align-items-center data-v-30450faf"><block wx:if="{{!background}}"><image class="logo data-v-30450faf" src="/static/images/logo.png"></image></block><slot></slot></view></view>

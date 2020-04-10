@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "商 家 评 价",
+  "usingComponents": {
+    "comment-list": "/pages/user/home/subPages/merchant-comment/children/comment-list",
+    "comment-platform": "/pages/user/home/subPages/merchant-comment/children/platform-comment"
+  }
+}

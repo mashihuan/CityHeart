@@ -1,0 +1,2 @@
+setCssToHead(["@charset \x22UTF-8\x22;\n.",[1],"content.",[1],"data-v-1a4338a9 { padding: ",[0,50],"; }\n.",[1],"btn.",[1],"data-v-1a4338a9 { margin-top: ",[0,100],"; }\n",],undefined,{path:"./pages/service/home/subPages/add-sort.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/service/home/subPages/add-sort.wxml') } }));

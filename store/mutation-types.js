@@ -1,0 +1,15 @@
+export const HOME_CAROUSEL = 'home_carousel';
+export const HOME_CLASSIFY = 'home_classify';
+export const HOME_RECOMMEND = 'home_recommend';
+export const MERCHANT_DETAIL = 'merchant_detail';
+export const MERCHANT_GOODS = 'merchant_goods';
+export const HOME_SEARCH_RESULT = 'home_search_result';
+export const PLATFORM_COMMENT = 'platform_comment';
+export const COMMENT_TYPE = 'comment_type';
+export const USER_COMMENT = 'user_comment';
+export const COMMENT_CLASSIFY = 'comment_classify';
+export const SHARE_INFO = 'share_info';
+export const USER_INFO = 'user_info';
+export const USER_FAVORITE = 'user_favorite';
+export const USER_COMMENTS = 'user_comments';
+export const USER_HISTORY = 'user_history';

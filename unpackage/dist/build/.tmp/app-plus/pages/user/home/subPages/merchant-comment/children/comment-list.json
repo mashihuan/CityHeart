@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "comment-item": "/components/comment-item",
+    "nodata": "/components/nodata"
+  },
+  "component": true
+}

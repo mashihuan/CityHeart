@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "我 的 评 价",
+  "usingComponents": {
+    "comment-item": "/components/comment-item",
+    "bottom": "/components/bottom",
+    "nodata": "/components/nodata"
+  }
+}

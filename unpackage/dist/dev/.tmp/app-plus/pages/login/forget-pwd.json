@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "忘 记 密 码",
+  "usingComponents": {
+    "login-temp": "/components/login",
+    "input-cell": "/components/input-cell"
+  }
+}

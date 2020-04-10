@@ -1,0 +1,2 @@
+setCssToHead(["@charset \x22UTF-8\x22;\n.",[1],"btn.",[1],"data-v-f64be99a { margin-top: ",[0,40],"; border-radius: ",[0,50],"; }\n.",[1],"register.",[1],"data-v-f64be99a { margin-top: ",[0,50],"; color: #f3c700; }\n",],undefined,{path:"./pages/login/register.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/login/register.wxml') } }));

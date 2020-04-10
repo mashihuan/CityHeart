@@ -1,0 +1,15 @@
+{
+  "navigationBarTitleText": "商 家 评 价",
+  "titleNView": {
+    "buttons": [
+      {
+        "text": "评 价",
+        "fontSize": "14px"
+      }
+    ]
+  },
+  "usingComponents": {
+    "comment-list": "/pages/user/home/subPages/merchant-comment/children/comment-list",
+    "comment-platform": "/pages/user/home/subPages/merchant-comment/children/platform-comment"
+  }
+}

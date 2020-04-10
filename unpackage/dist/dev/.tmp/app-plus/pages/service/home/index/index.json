@@ -1,0 +1,20 @@
+{
+  "navigationBarTitleText": "商 家",
+  "titleNView": {
+    "buttons": [
+      {
+        "text": "添 加",
+        "fontSize": "14px"
+      }
+    ]
+  },
+  "usingComponents": {
+    "tab-bar": "/components/tabBar",
+    "home-picture": "/pages/service/home/index/children/home-picture",
+    "merchant-name": "/pages/service/home/index/children/merchant-name",
+    "goods-manager": "/pages/service/home/index/children/goods-manager",
+    "sort-manager": "/pages/service/home/index/children/sort-manager",
+    "activity-manager": "/pages/service/home/index/children/activity-manager",
+    "mine": "/pages/service/mine/index/index"
+  }
+}

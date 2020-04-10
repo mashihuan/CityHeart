@@ -1,0 +1,1 @@
+<view class="d-flex flex-direction-column align-items-center data-v-21f514d6"><image src="{{img}}" class="data-v-21f514d6"></image><view class="text data-v-21f514d6">{{text}}</view></view>

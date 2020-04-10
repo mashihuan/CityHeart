@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "recommend-item": "/pages/user/home/index/children/recommend-item",
+    "nodata": "/components/nodata",
+    "bottom": "/components/bottom"
+  },
+  "component": true
+}

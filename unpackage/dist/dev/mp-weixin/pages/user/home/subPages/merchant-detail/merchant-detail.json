@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "商 家 详 情",
+  "usingComponents": {
+    "merchant-info": "/pages/user/home/subPages/merchant-detail/children/merchant-info",
+    "merchant-menu": "/pages/user/home/subPages/merchant-detail/children/merchant-menu"
+  }
+}

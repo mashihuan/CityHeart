@@ -1,0 +1,17 @@
+{
+  "navigationBarTitleText": "商 家 详 情",
+  "titleNView": {
+    "buttons": [
+      {
+        "text": "",
+        "fontSrc": "static/iconfont.ttf",
+        "fontSize": "22px",
+        "color": "#ffffff"
+      }
+    ]
+  },
+  "usingComponents": {
+    "merchant-info": "/pages/user/home/subPages/merchant-detail/children/merchant-info",
+    "merchant-menu": "/pages/user/home/subPages/merchant-detail/children/merchant-menu"
+  }
+}

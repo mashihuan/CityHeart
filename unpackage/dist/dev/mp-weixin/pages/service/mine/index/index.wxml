@@ -1,0 +1,1 @@
+<mine-temp vue-id="1" list="{{list}}" personal_info="{{user_info}}" service="{{true}}" class="data-v-12d1dadd" bind:__l="__l"></mine-temp>

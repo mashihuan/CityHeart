@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "申 请",
+  "usingComponents": {
+    "mpvue-picker": "/components/mpvue-picker/mpvuePicker"
+  }
+}

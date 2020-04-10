@@ -1,0 +1,17 @@
+{
+  "navigationBarTitleText": "",
+  "titleNView": {
+    "searchInput": {
+      "placeholder": "请输入您要搜索的内容",
+      "backgroundColor": "#f7ebaf",
+      "placeholderColor": "#4e5452",
+      "borderRadius": "50px",
+      "disabled": true
+    }
+  },
+  "usingComponents": {
+    "home-banner": "/components/banner",
+    "home-classify": "/pages/user/home/index/children/home-classify",
+    "home-recommend": "/pages/user/home/index/children/home-recommend"
+  }
+}

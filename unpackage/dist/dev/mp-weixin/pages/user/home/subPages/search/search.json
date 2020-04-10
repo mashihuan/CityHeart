@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "recommend-item": "/pages/user/home/index/children/recommend-item"
+  }
+}

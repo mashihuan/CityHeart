@@ -1,0 +1,2 @@
+setCssToHead(["@charset \x22UTF-8\x22;\n.",[1],"content.",[1],"data-v-853cfd1c { padding: ",[0,50],"; }\n.",[1],"content wx-image.",[1],"data-v-853cfd1c { width: ",[0,580],"; height: ",[0,210],"; margin: ",[0,90]," 0; border-radius: ",[0,10],"; }\n",],undefined,{path:"./pages/service/home/subPages/add-goods.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/service/home/subPages/add-goods.wxml') } }));

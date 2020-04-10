@@ -1,0 +1,16 @@
+{
+  "navigationBarTitleText": "我 的 评 价",
+  "titleNView": {
+    "buttons": [
+      {
+        "text": "编 辑",
+        "fontSize": "14px"
+      }
+    ]
+  },
+  "usingComponents": {
+    "comment-item": "/components/comment-item",
+    "bottom": "/components/bottom",
+    "nodata": "/components/nodata"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "navigationBarTitleText": "浏 览 历 史",
+  "titleNView": {
+    "buttons": [
+      {
+        "text": "清 空",
+        "fontSize": "14px"
+      }
+    ]
+  },
+  "usingComponents": {
+    "collect-item": "/components/collect-item",
+    "bottom": "/components/bottom",
+    "nodata": "/components/nodata"
+  }
+}

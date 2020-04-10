@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "添 加",
+  "usingComponents": {
+    "wrap-temp": "/components/wrap-temp"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "申 请",
+  "titleNView": {
+    "buttons": [
+      {
+        "text": "提 交",
+        "fontSize": "14px"
+      }
+    ]
+  },
+  "usingComponents": {
+    "mpvue-picker": "/components/mpvue-picker/mpvuePicker"
+  }
+}

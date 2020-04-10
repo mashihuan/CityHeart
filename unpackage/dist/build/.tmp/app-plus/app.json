@@ -1,0 +1,67 @@
+{
+  "pages": [
+    "pages/user/home/index/index",
+    "pages/user/home/subPages/search/search",
+    "pages/login/login",
+    "pages/service/mine/index/index",
+    "pages/service/home/subPages/add-goods",
+    "pages/service/home/subPages/add-sort",
+    "pages/service/home/index/index",
+    "pages/user/share/index/index",
+    "pages/user/mine/subPages/apply/apply",
+    "pages/user/mine/subPages/history/history",
+    "pages/user/mine/subPages/my-comment/my-comment",
+    "pages/user/mine/subPages/my-collect/my-collect",
+    "pages/user/mine/subPages/personal-info/personal-info",
+    "pages/user/mine/subPages/change-phone/change-phone",
+    "pages/user/mine/subPages/change-pwd/change-pwd",
+    "pages/user/mine/subPages/change-nickname/change-nickname",
+    "pages/user/home/subPages/comment/comment",
+    "pages/user/home/subPages/merchant-comment/merchant-comment",
+    "pages/user/home/subPages/merchant-detail/merchant-detail",
+    "pages/user/home/index/index",
+    "pages/user/mine/index/index",
+    "pages/login/register",
+    "pages/login/forget-pwd"
+  ],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "城市之心",
+    "navigationBarBackgroundColor": "#f3c800",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#313131",
+    "selectedColor": "#f3c800",
+    "backgroundColor": "#fff",
+    "list": [
+      {
+        "pagePath": "pages/user/home/index/index",
+        "text": "首 页",
+        "iconPath": "static/images/shouye2@2x.png",
+        "selectedIconPath": "static/images/shouye1@2x.png"
+      },
+      {
+        "pagePath": "pages/user/share/index/index",
+        "text": "分 享 有 礼",
+        "iconPath": "static/images/fenxiang1@2x.png",
+        "selectedIconPath": "static/images/fenxiang2@2x.png"
+      },
+      {
+        "pagePath": "pages/user/mine/index/index",
+        "text": "我 的",
+        "iconPath": "static/images/wode1@2x.png",
+        "selectedIconPath": "static/images/wode2@2x.png"
+      }
+    ]
+  },
+  "nvueCompiler": "uni-app",
+  "renderer": "auto",
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "火眼密码",
+  "compilerVersion": "2.4.2",
+  "usingComponents": {}
+}

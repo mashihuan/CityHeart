@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "登 录",
+  "usingComponents": {
+    "input-cell": "/components/input-cell",
+    "login-temp": "/components/login"
+  }
+}

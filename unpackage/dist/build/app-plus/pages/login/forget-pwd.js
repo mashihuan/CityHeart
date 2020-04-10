@@ -1,0 +1,2 @@
+setCssToHead(["@charset \x22UTF-8\x22;\n.",[1],"forget.",[1],"data-v-5a09e6c3 { padding-top: ",[0,140],"; }\n.",[1],"btn.",[1],"data-v-5a09e6c3 { margin-top: ",[0,40],"; border-radius: ",[0,50],"; }\n.",[1],"register.",[1],"data-v-5a09e6c3 { margin-top: ",[0,50],"; color: #f3c700; }\n",],undefined,{path:"./pages/login/forget-pwd.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/login/forget-pwd.wxml') } }));

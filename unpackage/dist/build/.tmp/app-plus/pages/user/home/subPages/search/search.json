@@ -1,0 +1,15 @@
+{
+  "navigationBarTitleText": "",
+  "titleNView": {
+    "searchInput": {
+      "placeholder": "请输入",
+      "backgroundColor": "#f7ebaf",
+      "placeholderColor": "#4e5452",
+      "borderRadius": "50px",
+      "autoFocus": true
+    }
+  },
+  "usingComponents": {
+    "recommend-item": "/pages/user/home/index/children/recommend-item"
+  }
+}

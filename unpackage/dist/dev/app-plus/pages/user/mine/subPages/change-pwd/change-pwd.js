@@ -1,0 +1,2 @@
+setCssToHead(["@charset \x22UTF-8\x22;\n.",[1],"btn.",[1],"data-v-59e52eb4 { margin-top: ",[0,80],"; }\n",],undefined,{path:"./pages/user/mine/subPages/change-pwd/change-pwd.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/user/mine/subPages/change-pwd/change-pwd.wxml') } }));
